@@ -1,4 +1,3 @@
-#
 01-installation-storage-compute
 02-networking-with-windows-server
 03-identity-with-windows-server
