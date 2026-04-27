@@ -79,6 +79,7 @@ Hyper-V allows one physical system to host multiple virtual systems, each runnin
 
 ### Snapshots/checkpoints = save points in a game
 They let you go back to an earlier state if something breaks during testing or changes.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/a8d79ea9-33e8-4f5f-b408-1539fa30f685" />
 
 ### Volume Shadow Copy = restore points for files
 This helps recover earlier versions of files without rebuilding everything from scratch.
