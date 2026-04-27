@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="9064604f-9ec0-465f-a09c-9d715ef9eeb6" src="https://github.com/user-attachments/assets/8b7368f4-a968-4d49-ba8c-71735d3826f4" />
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/0cae3991-acfd-4690-896d-186ed768503d" />
+
 
 # Installation, Storage, and Compute with Windows Server
 
