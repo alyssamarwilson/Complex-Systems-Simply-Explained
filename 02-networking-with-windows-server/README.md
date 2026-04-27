@@ -240,5 +240,5 @@ A VPN helps users connect securely to a private network from another location.
 
 These are beginner-friendly commands that connect to this section:
 
-```powershell
-Get-NetIPAddress
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7cf36d82-6360-413c-b90f-d53b75518129" />
+
