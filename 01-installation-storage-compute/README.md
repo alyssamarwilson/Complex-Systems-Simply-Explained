@@ -1,7 +1,6 @@
 <img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/0cae3991-acfd-4690-896d-186ed768503d" />
 
 
-# Installation, Storage, and Compute with Windows Server
 
 ## Building the foundation before everything else runs
 
