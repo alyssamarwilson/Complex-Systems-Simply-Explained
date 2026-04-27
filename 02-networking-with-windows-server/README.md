@@ -1,4 +1,6 @@
-## Networking with Windows Server
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/45c81dcf-298a-4586-95ad-e1104da3604e" />
+
+
 
 ## Connecting the digital city
 
@@ -72,8 +74,8 @@ This makes the network easier to manage, more organized, and more secure.
 **Simple idea:**  
 Subnetting breaks a large network into smaller, organized sections.
 
-**Visual idea:**  
-A city map divided into districts: Employee District, Server District, Guest District, and Admin District.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c314d23a-db19-4307-9869-b055cc45b63d" />
+
 
 ---
 
@@ -93,8 +95,8 @@ DHCP can provide:
 **Simple idea:**  
 DHCP saves admins from manually assigning every device an IP address.
 
-**Visual idea:**  
-A steampunk hotel front desk labeled “DHCP,” handing out room keys with IP addresses on them.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/b4a8aa9e-a146-48b1-a293-c5eb647968d1" />
+
 
 ---
 
@@ -107,8 +109,8 @@ The device gets to use an IP address for a specific amount of time. When the lea
 **Simple idea:**  
 Devices do not own DHCP addresses forever. They borrow them.
 
-**Visual idea:**  
-A room key with an expiration clock attached to it.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/0423dba6-e614-482d-898f-6d1a5ee1272e" />
+
 
 ---
 
@@ -125,8 +127,7 @@ IPv6 addresses look longer and use letters and numbers, like:
 **Simple idea:**  
 IPv6 gives the modern internet much more room to grow.
 
-**Visual idea:**  
-A huge futuristic city expansion with glowing address signs stretching into the distance.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/602ebfd7-eb69-4ecd-a311-1f6966abd506" />
 
 ---
 
