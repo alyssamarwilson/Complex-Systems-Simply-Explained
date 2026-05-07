@@ -77,7 +77,18 @@ Practical examples, troubleshooting stories, visuals, and analogy-based explanat
 
 
 ---
+<p align="center">
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/772e036b-92de-418c-af88-65edcb953f75"/>
+</p>
 
+**What you’ll learn:**  
+How Azure cloud services help you build, connect, store, secure, and scale workloads using Microsoft’s cloud platform.
+
+
+[**Ascend To The Sky Kingdom →**](06-azure-fundamentals/)
+
+
+---
 ## 🧭 Quick Navigation
 
 | District | Section | Focus |
@@ -87,3 +98,5 @@ Practical examples, troubleshooting stories, visuals, and analogy-based explanat
 | 🔐 **The Security Office** | [Identity with Windows Server](./03-identity-with-windows-server) | Identify, authenticate, and authorize |
 | 💻 **The Command Tower** | [PowerShell Administration](./04-automate-administration-with-powershell) | Script, automate, and repeat |
 | 🖼️ **The Field Guide** | [Real-World Scenarios & Images](./05-real-world-scenarios-images) | Learn, practice, and apply |
+| ☁️ **The Sky Kingdom** | [Azure Fundamentals](06-azure-fundamentals/) | Learn cloud concepts, services, storage, networking, and security |
+| 🐧 The Open-Source Outpost | [Linux Fundamentals](07-linux-fundamentals/) | Explore Linux systems, permissions, automation, and troubleshooting |
