@@ -1,0 +1,41 @@
+## ☁️ Azure Fundamentals
+
+### The Steampunk Sky Kingdom
+
+Think of Azure like a massive floating sky kingdom made of cloud cities, airship docks, power stations, vaults, security towers, and command centers.
+
+Your local environment is the town on the ground. Azure is the floating kingdom above it.
+
+You can send workloads, data, apps, users, and services up into the sky kingdom where they can scale, connect, store, and stay protected.
+
+### Beginner Translation
+
+Azure is Microsoft’s cloud platform. It lets organizations use technology services over the internet instead of owning and maintaining every physical server themselves.
+
+### What Azure Helps With
+
+- Running virtual machines
+- Hosting applications
+- Storing data
+- Connecting networks
+- Managing users and access
+- Protecting systems
+- Monitoring resources
+- Controlling cloud costs
+- Scaling when demand changes
+
+### Simple Analogy
+
+| Azure Term | Beginner Meaning |
+|---|---|
+| Compute | The power stations that run workloads |
+| Storage | The vaults that hold data |
+| Networking | The airship routes and bridges that connect systems |
+| Identity | The badges that prove who users are |
+| Security | The towers, guards, and shields that protect resources |
+| Cost Management | The treasury that tracks spending |
+| Scalability | The kingdom expanding when more space is needed |
+
+### Key Takeaway
+
+Azure helps you build, connect, store, protect, and scale technology without having to build the entire infrastructure yourself.
