@@ -61,9 +61,12 @@ Think of it like texting your computer instructions.
 
 Instead of clicking through folders, you can type:
 ls
+
+
 <img width="1122" height="1402" alt="Terrminal" src="https://github.com/user-attachments/assets/da2b4749-6d22-4bc2-a99c-ce9c6787d0e9" />
+
 ---
-## Important Beginner Linux Commands
+Important Beginner Linux Commands
 | Command                         | What It Does                                                  |
 | ------------------------------- | ------------------------------------------------------------- |
 | `pwd`                           | Shows where you are                                           |
@@ -87,3 +90,34 @@ Linux usually does exactly what you tell it to do.
 No dramatic “Are you sure?” moment.
 Tiny villain energy.
 
+## 3. Linux File System
+
+Linux organizes files like a tree.
+
+### The very top is:
+
+<bash> /
+
+This is called the root directory.
+
+Important Linux Folders
+| Folder  | What It Means            |
+| ------- | ------------------------ |
+| `/home` | User files live here     |
+| `/etc`  | Configuration files      |
+| `/var`  | Logs and changing data   |
+| `/bin`  | Basic commands           |
+| `/usr`  | User programs and tools  |
+| `/tmp`  | Temporary files          |
+| `/root` | Admin user’s home folder |
+
+
+
+Your personal files are usually in:
+
+/home/yourusername
+
+Example:
+
+/home/alyssa
+<img width="1536" height="1024" alt="file system" src="https://github.com/user-attachments/assets/47217662-c52f-43d7-9911-9d5e07538b78" />
