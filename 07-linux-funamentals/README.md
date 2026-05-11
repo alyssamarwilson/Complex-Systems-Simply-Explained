@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="Linux banner" src="https://github.com/user-attachments/assets/8ee64ce2-237e-4a97-9c2f-af22d2dd664d" />
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/b80a1013-57e1-474f-ba38-33a2caf6a2de" />
+
 
 #  The Open-Source Outpost
 
