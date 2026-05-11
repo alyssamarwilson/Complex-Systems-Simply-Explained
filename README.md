@@ -94,7 +94,7 @@ How Azure cloud services help you build, connect, store, secure, and scale workl
 What you’ll learn:  
 How Linux systems use commands, files, permissions, distributions, automation, containers, virtual machines, and troubleshooting to run reliable open-source environments.
 
-### [Enter The Open-Source Outpost →](07-linux-fundamentals/)
+### [Enter The Open-Source Outpost →](07-linux-fundamentals)
 --- 
 ## 🧭 Quick Navigation
 
