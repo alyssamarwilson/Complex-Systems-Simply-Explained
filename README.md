@@ -99,4 +99,4 @@ How Azure cloud services help you build, connect, store, secure, and scale workl
 | 💻 **The Command Tower** | [PowerShell Administration](./04-automate-administration-with-powershell) | Script, automate, and repeat |
 | 🖼️ **The Field Guide** | [Real-World Scenarios & Images](./05-real-world-scenarios-images) | Learn, practice, and apply |
 | ☁️ **The Sky Kingdom** | [Azure Fundamentals](06-azure-fundamentals/) | Learn cloud concepts, services, storage, networking, and security |
-| 🐧 The Open-Source Outpost | [Linux Fundamentals](07-linux-fundamentals/) | Explore Linux systems, permissions, automation, and troubleshooting |
+| 🐧 The Open-Source Outpost | [Linux Fundamentals](07-linux-fundamentals) | Explore Linux systems, permissions, automation, and troubleshooting |
