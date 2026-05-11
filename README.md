@@ -13,7 +13,6 @@ This project is organized like a connected digital city. Each section represents
 ---
 
 
-# ⚙️ 01 — The Engine Room  
 
 <p align="center">
   <img width="85%" alt="The Engine Room - Installation, Storage, and Compute" src="https://github.com/user-attachments/assets/ffb0e5f0-4b6e-4313-af7a-bd3219a2a820" />
@@ -25,8 +24,7 @@ How servers are installed, configured, powered, stored, and maintained.
 [**Enter The Engine Room →**](./01-installation-storage-compute)
 
 ---
-
-# 🌐 02 — The Roadways  
+ 
 
 <p align="center">
   <img width="85%" alt="The Roadways - Networking with Windows Server" src="https://github.com/user-attachments/assets/b2a61d5c-ce17-474b-adcd-b5ab83c827cd" />
@@ -39,7 +37,6 @@ How devices use addresses, routes, DNS, DHCP, VPNs, and gateways to communicate.
 
 ---
 
-# 🔐 03 — The Security Office  
 
 <p align="center">
   <img width="85%" alt="The Security Office - Identity with Windows Server" src="https://github.com/user-attachments/assets/e2713d3c-7690-4f1c-8492-09762dccf71d" />
@@ -52,7 +49,6 @@ How users, computers, groups, permissions, authentication, and Active Directory 
 
 ---
 
-# 💻 04 — The Command Tower  
 
 <p align="center">
   <img width="85%" alt="The Command Tower - PowerShell Administration" src="https://github.com/user-attachments/assets/78e449be-97af-4b6f-93c2-d4639323b8e7" />
@@ -78,7 +74,7 @@ Practical examples, troubleshooting stories, visuals, and analogy-based explanat
 
 ---
 <p align="center">
-<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/772e036b-92de-418c-af88-65edcb953f75"/>
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/949b4ff2-72f8-4a43-adc3-5906e844fc87" />
 </p>
 
 **What you’ll learn:**  
@@ -91,9 +87,9 @@ How Azure cloud services help you build, connect, store, secure, and scale workl
 ---
 * * *
 
-# 🐧 07 — The Open-Source Outpost
-
-<img width="2172" height="724" alt="The Open-Source Outpost - Linux Fundamentals" src="https://github.com/user-attachments/assets/8ee64ce2-237e-4a97-9c2f-af22d2dd664d" />
+<p align="center">
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/f82fb2a1-9d78-4bef-b6d7-fa09b1d57641" />
+</p>
 
 What you’ll learn:  
 How Linux systems use commands, files, permissions, distributions, automation, containers, virtual machines, and troubleshooting to run reliable open-source environments.
