@@ -108,3 +108,5 @@ How Linux systems use commands, files, permissions, distributions, automation, c
 | 🗼 The Command Tower | [PowerShell Administration](04-automate-administration-with-powershell/) | Script, automate, and repeat |
 | 📘 The Field Guide | [Real-World Scenarios & Images](05-real-world-scenarios/) | Learn, practice, and apply |
 | 🐧 The Open-Source Outpost | [Linux Fundamentals](07-linux-fundamentals/) | Explore Linux commands, files, permissions, automation, containers, and troubleshooting |
+
+
