@@ -401,6 +401,7 @@ Automation tools can include:
 ---
 
 # 11. Deploy, Maintain, and Monitor Containers and Virtual Machines
+<img width="1448" height="1086" alt="Deploy, Maintain, and Monitor Containers and Virtual Machines Visual Idea" src="https://github.com/user-attachments/assets/c2bbc43e-6b8a-4109-b2ea-6968bcd63cf7" />
 
 ## Analogy
 
