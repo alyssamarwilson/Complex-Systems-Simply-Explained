@@ -89,14 +89,26 @@ How Azure cloud services help you build, connect, store, secure, and scale workl
 
 
 ---
+* * *
+
+# 🐧 07 — The Open-Source Outpost
+
+<img width="2172" height="724" alt="The Open-Source Outpost - Linux Fundamentals" src="https://github.com/user-attachments/assets/8ee64ce2-237e-4a97-9c2f-af22d2dd664d" />
+
+What you’ll learn:  
+How Linux systems use commands, files, permissions, distributions, automation, containers, virtual machines, and troubleshooting to run reliable open-source environments.
+
+### [Enter The Open-Source Outpost →](07-linux-fundamentals/)
+--- 
 ## 🧭 Quick Navigation
+
+## Quick Navigation
 
 | District | Section | Focus |
 |---|---|---|
-| ⚙️ **The Engine Room** | [Installation, Storage, and Compute](./01-installation-storage-compute) | Build, store, and power systems |
-| 🌐 **The Roadways** | [Networking with Windows Server](./02-networking-with-windows-server) | Connect, route, and communicate |
-| 🔐 **The Security Office** | [Identity with Windows Server](./03-identity-with-windows-server) | Identify, authenticate, and authorize |
-| 💻 **The Command Tower** | [PowerShell Administration](./04-automate-administration-with-powershell) | Script, automate, and repeat |
-| 🖼️ **The Field Guide** | [Real-World Scenarios & Images](./05-real-world-scenarios-images) | Learn, practice, and apply |
-| ☁️ **The Sky Kingdom** | [Azure Fundamentals](06-azure-fundamentals/) | Learn cloud concepts, services, storage, networking, and security |
-| 🐧 The Open-Source Outpost | [Linux Fundamentals](07-linux-fundamentals) | Explore Linux systems, permissions, automation, and troubleshooting |
+| ⚙️ The Engine Room | [Installation, Storage, and Compute](01-installation-storage-compute/) | Build, store, and power systems |
+| 🛣️ The Roadways | [Networking with Windows Server](02-networking-with-windows-server/) | Connect, route, and communicate |
+| 🪪 The Security Office | [Identity with Windows Server](03-identity-with-windows-server/) | Identify, authenticate, and authorize |
+| 🗼 The Command Tower | [PowerShell Administration](04-automate-administration-with-powershell/) | Script, automate, and repeat |
+| 📘 The Field Guide | [Real-World Scenarios & Images](05-real-world-scenarios/) | Learn, practice, and apply |
+| 🐧 The Open-Source Outpost | [Linux Fundamentals](07-linux-fundamentals/) | Explore Linux commands, files, permissions, automation, containers, and troubleshooting |
