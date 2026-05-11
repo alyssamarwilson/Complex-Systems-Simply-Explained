@@ -19,6 +19,8 @@ Every system can be configured, secured, automated, and repaired.
 ## Beginner Mental Model
 
 Linux is a command-friendly operating system that gives you strong control over:
+<img width="1536" height="1024" alt="Mental Model" src="https://github.com/user-attachments/assets/691854f6-6cb2-426d-80b2-ab5caaf37bf0" />
+
 
 - Files
 - Users
@@ -121,3 +123,261 @@ Example:
 
 /home/alyssa
 <img width="1536" height="1024" alt="file system" src="https://github.com/user-attachments/assets/47217662-c52f-43d7-9911-9d5e07538b78" />
+
+## 4. Users and Permissions
+Simple Description
+
+Linux cares a lot about who is allowed to do what.
+
+Every file has permissions for:
+
+The owner
+The group
+Everyone else
+
+You may see something like this:
+
+-rw-r--r--
+
+That looks scary at first, but it breaks down into simple permission symbols.
+
+Permission Symbols
+| Symbol | Meaning              |
+| ------ | -------------------- |
+| `r`    | Read                 |
+| `w`    | Write                |
+| `x`    | Execute or run       |
+| `-`    | Permission not given |
+
+
+So permissions are basically Linux asking:
+
+Who can read this?
+Who can edit this?
+Who can run this?
+
+## 5. What Is sudo?
+Simple Description
+
+Sometimes you need admin power.
+
+That is where sudo comes in.
+
+sudo apt update
+
+sudo means:
+
+Run this command with administrator privileges.
+
+Simple Analogy
+
+You are using a regular employee badge, but sudo is like asking for temporary manager access.
+
+Use it carefully.
+
+With great power comes great responsibility… and sometimes accidentally deleting things.
+
+6. Installing Software
+Simple Description
+
+Different Linux systems use different package managers.
+
+On Ubuntu and Debian systems, you often use apt.
+
+First, update the package list:
+
+sudo apt update
+
+Then install a package:
+
+sudo apt install package-name
+
+Example:
+
+sudo apt install nano
+
+That installs the nano text editor.
+
+Package Manager Analogy
+
+A package manager is like the outpost supply depot.
+
+Instead of wandering around the internet looking for parts, you ask the supply depot for the tool you need.
+
+7. What Is a Distribution?
+Simple Description
+
+Linux comes in different versions called distributions or distros.
+
+Linux itself is the core engine.
+
+A distro is the full car built around that engine.
+
+<img width="1536" height="1024" alt="distribution" src="https://github.com/user-attachments/assets/70fd9a1c-a7fd-4d32-9d8a-7eff7508342e" />
+
+Popular Linux Distributions
+Distro	Beginner Meaning
+Ubuntu	Very beginner-friendly
+Debian	Stable and reliable
+Fedora	Modern and developer-focused
+Kali Linux	Cybersecurity-focused
+Red Hat Enterprise Linux	Business and enterprise servers
+Linux Mint	Windows-like beginner desktop
+Simple Analogy
+
+Linux is the engine.
+
+The distro is the full vehicle built around it.
+
+Different distros use the same core idea, but they package the experience differently depending on the goal.
+
+8. Configure and Manage Linux Systems, Storage, Networks, and Services
+Analogy
+
+Managing Linux is like running a rugged command outpost.
+
+The systems are the buildings.
+Storage is the vault.
+Networking is the roads and signal lines.
+Services are the engines keeping everything running.
+
+Simple Description
+
+Linux administrators configure and manage systems so they can store data, communicate across networks, and run important services.
+
+<img width="1448" height="1086" alt="Linux Outpost" src="https://github.com/user-attachments/assets/631c70bb-261d-43a7-8578-13ef9e404e21" />
+
+This can happen in:
+
+Local environments
+Cloud environments
+Hybrid environments
+Key Concepts
+Concept	Outpost Analogy
+Systems	Workshop buildings that need to be configured
+Storage	Vaults and supply rooms that hold data
+Network	Roads, pipes, and signal lines connecting everything
+Services	Engines that keep important functions running
+Cloud	A distant elevated platform or airship dock
+On-Prem	Ground buildings inside the local outpost
+9. Apply Permissions, Authentication, Firewalls, and System Hardening
+Analogy
+
+Linux security is like defending an iron fortress.
+
+Authentication checks who you are.
+Permissions decide what you can access.
+Firewalls block unwanted traffic.
+Hardening reinforces weak spots.
+
+Simple Description
+
+Security best practices help protect Linux systems from unauthorized access, mistakes, and threats.
+
+<img width="1448" height="1086" alt="Permissions, Authentication, Firewalls, and System Hardening" src="https://github.com/user-attachments/assets/d3717fc5-95bc-43d6-88b2-4678a56ef2bc" />
+
+Security Concepts
+Concept	Fortress Analogy
+Authentication	A guard checking your papers
+Permissions	Keys and lockboxes controlling access
+Firewall	A shield wall filtering what gets through
+Hardening	Welding doors shut and reinforcing weak points
+Approved Users	People walking along the safe green path
+Blocked Traffic	Shadowy figures stopped outside the wall
+10. Automate Administration Tasks
+Analogy
+
+Automation is like building mechanical arms and command machines that repeat tasks for you.
+
+Instead of doing the same steps by hand every time, you write instructions once and let the system execute them.
+
+Simple Description
+
+Linux administrators use automation to save time, reduce mistakes, and make repeated tasks more consistent.
+
+<img width="1448" height="1086" alt="Automate Administration Tasks With Shell Scripting, Python, and Configuration Tools" src="https://github.com/user-attachments/assets/351eb454-a23a-4bc1-9ca5-2da00157b1c1" />
+
+Automation tools can include:
+
+Shell scripting
+Python
+Configuration management tools
+Scheduled jobs
+Infrastructure as code
+Automation Concepts
+Tool	Outpost Analogy
+Shell Script	A scroll of step-by-step commands
+Python	A flexible brass toolset
+Config Management	A blueprint machine that keeps systems consistent
+Cron Jobs	Scheduled clockwork tasks
+Mechanical Arms	Machines completing repetitive work
+11. Deploy, Maintain, and Monitor Containers and Virtual Machines
+Analogy
+
+Virtual machines and containers are like different rooms inside a modular Linux factory.
+
+A virtual machine is a larger enclosed apartment with its own operating environment.
+
+A container is a smaller efficient pod that carries only what an application needs.
+
+Simple Description
+
+Linux is often used to run virtual machines and containers because it is flexible, efficient, and widely used in servers and cloud environments.
+
+Virtual Machines vs Containers
+Concept	Simple Meaning	Factory Analogy
+Linux Host	The main system running everything	The central factory engine
+Virtual Machine	A full isolated computer environment	A larger enclosed apartment
+Container	A lightweight app package	A smaller efficient pod
+Deploy	Launch the workload	Start the machine
+Maintain	Keep it updated and healthy	Check pressure valves
+Monitor	Watch performance and status	Read gauges and health lights
+12. Troubleshoot System, Network, Security, and Application Issues
+Analogy
+
+Troubleshooting Linux is like being a systems detective in a repair yard.
+
+You follow the clues, trace the problem, find the broken gear, and restore uptime.
+
+Simple Description
+
+Troubleshooting means identifying and fixing problems that affect systems, networks, security, or applications.
+
+The goal is to keep systems reliable and reduce downtime.
+
+<img width="1448" height="1086" alt="Troubleshoot System, Network, Security, and Application Issues" src="https://github.com/user-attachments/assets/e836384e-ea93-43ef-8410-51ef98f94760" />
+
+Troubleshooting Areas
+Issue Type	Repair Yard Analogy
+System	Smoking machinery or overloaded engines
+Network	Frayed cables or broken signal paths
+Security	Locked gates, access failures, or suspicious activity
+Application	A stalled machine or broken service
+Root Cause	The faulty gear causing the problem
+Uptime Restored	The outpost lights coming back on
+Troubleshooting Mindset
+
+When something breaks, ask:
+
+What changed?
+What error do I see?
+Is the system running?
+Is the network connected?
+Are permissions blocking access?
+Is the service active?
+What do the logs say?
+13. Beginner Linux Starter Pack
+Commands to Practice First
+Command	What It Does
+pwd	Shows where you are
+ls	Lists files and folders
+cd	Changes folders
+mkdir	Makes a new folder
+touch	Creates a file
+cp	Copies files
+mv	Moves or renames files
+rm	Deletes files
+cat	Shows file contents
+nano	Edits files in the terminal
+sudo	Runs a command with admin power
+
